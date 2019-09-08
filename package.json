@@ -1,0 +1,23 @@
+{
+  "name": "rel-path-finder",
+  "main": "./lib/rel-path-finder",
+  "version": "0.0.1",
+  "description": "Gives suggestions of relative paths in your current working directory (For Atom)",
+  "keywords": [
+    "path",
+    "paths",
+    "relative",
+    "autocomplete",
+    "suggestion",
+    "suggestions"
+  ],
+  "activationCommands": {
+    "atom-workspace": "rel-path-finder:find"
+  },
+  "repository": "https://github.com/ajnauleau/rel-path-finder",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

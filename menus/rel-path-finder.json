@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle rel-path-finder",
+        "command": "rel-path-finder:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "rel-path-finder",
+          "submenu": [
+            {
+              "label": "Find",
+              "command": "rel-path-finder:find"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
