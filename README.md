@@ -28,6 +28,6 @@ Install from **_settings/packages_** location or run following command on a term
 
 ### Screenshots
 
-![](https://github.com/ajnauleau/rel-path-finder/blob/master/images/atom1-screenshot.png)
+![](https://raw.githubusercontent.com/ajnauleau/rel-path-finder/master/images/atom1-screenshot.png)
 
-![](https://github.com/ajnauleau/rel-path-finder/blob/master/images/atom2-screenshot.png)
+![](https://raw.githubusercontent.com/ajnauleau/rel-path-finder/master/images/atom2-screenshot.png)
