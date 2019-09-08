@@ -1,16 +1,16 @@
-# rel-path-finder package
+# rel-path-finder atom package
 
 # [rel-path-finder](https://atom.io/packages/rel-path-finder)
 
 Based off of [atom-path-intellisense](https://atom.io/packages/atom-path-intellisense)
 
-Autocomplete provider based on atom [autocomplete-plus](https://atom.io/packages/autocomplete-plus) package
+Autocomplete provider [autocomplete-plus](https://atom.io/packages/autocomplete-plus) package
 
 ### Features
 
-- Helps autocomplete file location when referencing a file
-
 - Provides path suggestions based on typed path.
+
+- Helps autocomplete file location and references files in your file path
 
 - Current file relative path suggestions are provided typing either self (**./**) or parent(**../**) directory location.
 
@@ -23,7 +23,7 @@ Autocomplete provider based on atom [autocomplete-plus](https://atom.io/packages
 Install from **_settings/packages_** location or run following command on a terminal:
 
 ```bash
-  apm install atom-path-intellisense
+  apm install rel-path-finder
 ```
 
 ### Screenshots
