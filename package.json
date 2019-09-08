@@ -2,7 +2,7 @@
   "name": "rel-path-finder",
   "main": "./lib/rel-path-finder",
   "version": "0.3.3",
-  "description": "Give suggestions of relative paths in your current working directory (For Atom)",
+  "description": "Gives suggestions of relative paths in your current working directory (For Atom).",
   "keywords": [
     "path",
     "paths",
