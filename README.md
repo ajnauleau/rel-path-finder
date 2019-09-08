@@ -8,9 +8,14 @@ Autocomplete provider based on atom [autocomplete-plus](https://atom.io/packages
 
 ### Features
 
+- Helps autocomplete file location when referencing a file
+
 - Provides path suggestions based on typed path.
+
 - Current file relative path suggestions are provided typing either self (**./**) or parent(**../**) directory location.
+
 - Project folder relative path suggestions are provided typing forward slash (**/**).
+
 - Suggestions are provided within quoted strings both single and double by default.
 
 ### Installation
@@ -20,3 +25,9 @@ Install from **_settings/packages_** location or run following command on a term
 ```bash
   apm install atom-path-intellisense
 ```
+
+### Screenshots
+
+![](https://github.com/ajnauleau/rel-path-finder/blob/master/images/atom1-screenshot.png)
+
+![](https://github.com/ajnauleau/rel-path-finder/blob/master/images/atom2-screenshot.png)
