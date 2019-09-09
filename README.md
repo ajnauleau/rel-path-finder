@@ -6,6 +6,10 @@ Based off of [atom-path-intellisense](https://atom.io/packages/atom-path-intelli
 
 Autocomplete provider [autocomplete-plus](https://atom.io/packages/autocomplete-plus) package
 
+### Initialize!
+
+You must initialize the package by highlighting some text (any text) and going to **Packages --> rel-path-finder --> Find** or by pressing (^-option-F).
+
 ### Features
 
 - Provides path suggestions based on typed path.
