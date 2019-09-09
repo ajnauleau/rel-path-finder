@@ -8,7 +8,7 @@ Autocomplete provider [autocomplete-plus](https://atom.io/packages/autocomplete-
 
 ### Initialize!
 
-You must initialize the package by highlighting some text (any text) and going to **Packages --> rel-path-finder --> Find** or by pressing (^-option-F).
+You must initialize the package by highlighting some text (any text) and going to **Packages --> rel-path-finder --> Find** or by pressing (ctrl-alt-F).
 
 ### Features
 
