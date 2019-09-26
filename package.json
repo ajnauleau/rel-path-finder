@@ -1,5 +1,5 @@
 {
-  "name": "rel-path-finder",
+  "name": "rel-path-finder (Intellisense)",
   "main": "./lib/rel-path-finder",
   "version": "1.1.10",
   "description": "Gives suggestions of relative paths in your current working directory (For Atom).",
